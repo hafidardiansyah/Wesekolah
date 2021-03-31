@@ -24,7 +24,7 @@ Demo dapat kalian kunjungi di https://sekolahdemoku.000webhostapp.com
 
 ### 📝 Lisensi
 
-- Copyright © 2020 Hafid Ardiansyah.
+- Copyright © 2021 Hafid Ardiansyah.
 - **Wesekolah MIT License.**
 
 ---
